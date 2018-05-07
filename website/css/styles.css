@@ -1,0 +1,36 @@
+body {
+  background: palegreen;
+
+}
+
+h1 {
+  color: navy;
+  font-family: 'Mrs Sheppards', cursive;
+  font-size: 60px;
+}
+
+p {
+  font-family: cursive;
+}
+
+footer {
+color: blue
+  font-family: fantasy;
+}
+
+.red{
+  color:red;
+}
+
+.continue{
+  margin: 1% 25% 50% 80%;
+}
+
+a{
+  padding: 10px;
+}
+a:hover{
+  border: 1px solid black;
+background: red;
+color: white;
+}
